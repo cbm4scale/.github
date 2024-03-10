@@ -10,8 +10,8 @@ binary matrix multiply kernel (CBMM) into a widely used Graph Neural Network
 (GNN) framework, we will demonstrate significant performance improvements for
 important HPC applications on current and future European supercomputers.
 
-The innovation study will be conducted in cooperation between INESC-ID Lisboa
-and the University of Vienna.
+The innovation study will be conducted in cooperation between [INESC-ID Lisboa](https://www.inesc-id.pt)
+and the [University of Vienna](https://sc.cs.univie.ac.at/research/projects/project/390/).
 
 The CBM4Scale innovation study is funded by
 [Inno4scale](https://www.inno4scale.eu/), a European initiative for supporting
